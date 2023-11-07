@@ -1,0 +1,5 @@
+# ninja log v5
+1	1085	7076214268925623	CMakeFiles/stepik_Mod2.dir/main.cpp.obj	85e41fde5bad66d5
+4	361	7076353785756652	build.ninja	3c109738d900838c
+5	736	7076230896852367	CMakeFiles/stepik_Mod2.dir/stackpracticeAB.cpp.obj	5e2fe954cd6ec6c7
+737	959	7076230898992029	stepik_Mod2.exe	e79b645de947f74f

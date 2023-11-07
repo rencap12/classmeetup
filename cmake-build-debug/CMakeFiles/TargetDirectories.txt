@@ -1,0 +1,3 @@
+C:/Users/renec/CLionProjects/stepik_Mod2/cmake-build-debug/CMakeFiles/stepik_Mod2.dir
+C:/Users/renec/CLionProjects/stepik_Mod2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/renec/CLionProjects/stepik_Mod2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
